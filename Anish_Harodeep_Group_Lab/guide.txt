@@ -1,0 +1,7 @@
+Make it executable:
+chmod +x /home/synopsis/Anish_Harodeep_Group_Lab/run_all.sh
+
+Run the script:
+cd /home/synopsis/Anish_Harodeep_Group_Lab
+./run_all.sh
+
